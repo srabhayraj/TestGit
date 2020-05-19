@@ -1,2 +1,2 @@
-# TextGit
-For texting git
+# TestGit
+For testing git
